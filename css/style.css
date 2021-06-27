@@ -1,11 +1,5 @@
 body {
-    background-color: forestgreen;
-}
-h1 {
-    font-family: Verdana,sans-serif;
+  background-color: pink;
 }
 
-.header {
-    display: flex;
-    justify-content: center;
-}
+/*# sourceMappingURL=style.css.map */
